@@ -1,4 +1,4 @@
-# Kloter Four Arkademy
+# Kloter Four
 
 Untuk soal nomor 1 hingga nomor 5, dilakukan pengujian pada https://es6console.com/
 
